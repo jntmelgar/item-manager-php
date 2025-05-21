@@ -17,7 +17,7 @@ cd nome-do-repositorio
 ### 2. Suba os containers
 
 ```bash
-docker-compose up -d
+docker compose up -d
 ```
 
 ### 3. Acesse a aplicação
@@ -77,7 +77,7 @@ CREATE TABLE IF NOT EXISTS items (
 Para parar e remover os containers:
 
 ```bash
-docker-compose down
+docker compose down
 ```
 
 ---
