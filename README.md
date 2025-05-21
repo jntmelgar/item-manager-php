@@ -10,8 +10,8 @@ Este projeto configura um ambiente de desenvolvimento utilizando Docker Compose 
 ### 1. Clone este repositório
 
 ```bash
-git clone https://github.com/seu-usuario/nome-do-repositorio.git
-cd nome-do-repositorio
+git clone [https://github.com/jntmelgar/item-manager-php]
+cd item-manager-php
 ```
 
 ### 2. Suba os containers
